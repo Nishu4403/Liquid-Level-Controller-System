@@ -2,3 +2,5 @@
 
 It is very difficult and tedious task to manually monitor the level of liquid in a container. This project proposes a solution called a liquid level monitoring system which can constantly monitor the level of liquid in a container.  It involves measuring the liquid level using Raspberry Pi and an ultrasonic distance sensor HC-SR04. Raspberry Pi is programmed to take the water level readings every minute and send the data to a remote custom Web Application hosted in a far off location. The custom Web Application provides a real-time update of the water tank level. A customisable online widget is also developed to get the data from the raspberry pi and display it to the user. Hence, the user can see the level of liquid from the remote location. And it also has low level and high level triggers which will prevent the overflow and underflow of the liquid.
 
+![Screenshot_2023-07-19-20-25-22-52](https://github.com/Nishu4403/Liquid-Level-Controller-System/assets/136835813/a449cd7a-ea1d-4294-92fe-2a3086c635e4)
+![Screenshot_2023-07-19-20-25-30-24](https://github.com/Nishu4403/Liquid-Level-Controller-System/assets/136835813/8576e20d-86a1-4508-b82d-2aeef3d7a841)
